@@ -1,4 +1,4 @@
-# Imaging Findings Generation Based on Large Language Model
+# Knee-MRI-report-generation
 
 Summary
 
