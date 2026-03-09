@@ -1,0 +1,1 @@
+HF_HOME=/home/wuwl/data/huggingface/ TRANSFORMERS_OFFLINE=1 CUDA_VISIBLE_DEVICES=2 python inference.py
